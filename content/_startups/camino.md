@@ -20,7 +20,7 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
-    start: 2018-01-01
+    start: 2019-01-01
 ---
 
 ## Le problème
